@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="JD My App1">5783a58f13ae930c9e55b7f66144b061</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>JD My App1 Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_arps_jd_my_app1_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_arps_jd_my_app1.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>Z99873</sys_created_by>
+        <sys_created_on>2018-06-11 19:58:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>378365cf13ae930c9e55b7f66144b0b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JD My App1 Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="JD My App1" source="x_arps_jd_my_app1">c7836d47136e930c9e55b7f66144b081</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="JD My App1">c7836d47136e930c9e55b7f66144b081</sys_scope>
+        <sys_update_name>sys_app_module_378365cf13ae930c9e55b7f66144b0b1</sys_update_name>
+        <sys_updated_by>Z99873</sys_updated_by>
+        <sys_updated_on>2018-06-11 19:58:43</sys_updated_on>
+        <timeline_page/>
+        <title>JD My App1 Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

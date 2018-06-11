@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="JD My App1 Table" max_length="40" name="x_arps_jd_my_app1_table" type="collection"/>
+</database>
